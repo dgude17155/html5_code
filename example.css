@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #111111;
+}
+
+table {
+    width: 600px;
+    border: 3px solid gray;
+    border-radius: 0.4em;
+}
+
+th, td {
+    padding: 7px 10px;
+}
+
+th {
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    text-align: left;
+    text-decoration: underline;
+    color: blue;
+    border-bottom: 2px solid black;
+}
+
+tr.bottom {
+    background-color: #E2e8e8;
+    text-align: center;
+}
